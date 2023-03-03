@@ -42,7 +42,7 @@
 * Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
-## Работа с картинками
+## Добавление картинок
 
 Для того, чтобы добавить картинку необходиму ввести команду "![Картинка] ()", без пробелов. 
 *В круглах скобках необходимо вставить адрес ссылки или URL понравившейся картинки из интернета.* 
@@ -50,8 +50,8 @@
 **Пример:**
 ![Картинка с морем](https://pw.artfile.me/wallpaper/30-11-2017/650x407/priroda-voshody-zakaty-sea-pesok-sunset--1272319.jpg)
 
-## *Работа с ссылками*
+## *Добавление ссылок*
 
 Пишем комментарий в квадратных скобках и в круглых добавляем ссылку на необходимый текст. Пример как это выглядит ниже.
 
-[Работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+[Здесь можно послушать мотивационную речь одного очень известного человека](https://hochu.ua/cat-razvitie/lichnostnyiy-rost/article-89341-motiviruyuschaya-rech-arnolda-shvartseneggera-kotoruyu-stoit-prochitat-vsem/)
